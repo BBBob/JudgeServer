@@ -1,4 +1,4 @@
-FROM registry.docker-cn.com/library/ubuntu:16.04
+FROM library/ubuntu:16.04
 
 COPY build/java_policy /etc
 
